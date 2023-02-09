@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repo de prueba del modulo 2 del curso introductorio de Henry
+Este proyecto es una prueba de como crear un repo y clonarlo a mi repo local
